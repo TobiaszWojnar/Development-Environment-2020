@@ -4,16 +4,25 @@
 Development environment course at Wroclaw University of Science and Technology
 2020
 
-##### Deadline
+###### Deadline
 2020-10-25
 
-#### Setup
+### Setup
+To make files `exercise1.sh`, `exercise2.sh`, ... , `exercise6.sh` executable run:
+```
+	chmod +x <fileName>
+```
+Then simply run 
+```
+	./<fileName>
+```
 
-#### Requirements
-##### Input
+
+### Requirements
+###### Input
 For all exercises is a path to directory (the root of the directory subtree containing text files)
 
-##### Assumptions
+###### Assumptions
 Text files in directory contain only letters, spaces and new line characters.
 
 
@@ -39,7 +48,7 @@ Text files in directory contain only letters, spaces and new line characters.
 * [x] Create report using `asciinema`
 
 
-#### What I Learned
+### What I Learned
 * basic usage of svn server
 * usage of asciinema
 * basic usage of pipelines

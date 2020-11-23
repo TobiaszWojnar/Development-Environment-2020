@@ -24,7 +24,7 @@ To run a report for each task run:
 * [x] Exercise 3 (0.5 point):
 	* Chceck how manipulating `svn:executable` parameter will affect `bash` scripts.
 
-* [] Exercise 4 (0.5 point):
+* [ ] Exercise 4 (0.5 point):
 	* 
 
 * [x] Exercise 5 (1 point):

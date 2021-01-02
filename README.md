@@ -1,6 +1,17 @@
 # Development Environment Course
-Development environment course at Wroclaw University of Science and Technology
-2020
+Development environment course at Wroclaw University of Science and Technology 2020
+
+## Taught by:
+[Marcin Kik, PhD](https://cs.pwr.edu.pl/kik/)
+
+## Lecture:
+Course material:
+* Using bash scripts
+* Using `make` repositories
+* Using `SVN` repositories
+* Using `Git` repositories
+
+## Lab:
 
 Setup and detailed requirements for each list are in their folder.
 

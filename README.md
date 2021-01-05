@@ -46,5 +46,6 @@ Below are brief notes on each exercise.
 * Extend the functionality of the application on svn server.
 * implement word serching scripts from `List 1` to work with svn repositories.
 ##### What I Learned
-* advanced usage of svn server
-* advanced usage of pipelines
+* Advanced usage of svn server.
+* Working in large group on project, and how to use branches and tags.
+* Advanced usage of pipelines

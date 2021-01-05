@@ -36,15 +36,6 @@ Below are brief notes on each exercise.
 * Create report using `asciinema`
 * Execute list of exercises demonstrating usage and options with `svn` repositories and commend.
 ##### What I Learned
-* advanced usage of svn server
-
-#### List 2 - `svn`
-##### Deadline
-2020-11-11
-##### Requirements
-* Create report using `asciinema`
-* Execute list of exercises demonstrating usage and options with `svn` repositories and commend.
-##### What I Learned
 * usage of svn server
 
 #### List 3 - Advanced `svn`

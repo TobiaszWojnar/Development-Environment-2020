@@ -5,7 +5,7 @@ Development environment course at Wroclaw University of Science and Technology
 2020
 
 ###### Deadline
-2020-11-11
+2020-11-29
 
 ### Setup
 To run a report for each task run:
@@ -46,6 +46,6 @@ To run a report for each task run:
 
 
 ### What I Learned
-* advanced usage of svn server
+* usage of svn server
 
 

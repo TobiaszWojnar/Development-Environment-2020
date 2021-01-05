@@ -38,7 +38,7 @@ Then simply run
 	* Implement script in bash that given svn repository addres and revision number for all regular files prints number of occurrences each word in all files.
 
 * [x] Exercise 3 (1 point):
-	* # ImplImplement script in bash that given svn repository addres and revision number for each word in files in repository prints the number of files it occurred in.
+	* ImplImplement script in bash that given svn repository addres and revision number for each word in files in repository prints the number of files it occurred in.
 
 * [x] Create report using `asciinema`
 
